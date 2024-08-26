@@ -34,19 +34,19 @@
         }
       },
       "accent": {
-        "subtle1": {
+        "subtle": {
           "value": "{global.color.esmeralda.10}",
           "type": "color"
         },
-        "muted1": {
+        "muted": {
           "value": "{global.color.esmeralda.40}",
           "type": "color"
         },
-        "default1": {
+        "default": {
           "value": "{global.color.esmeralda.60}",
           "type": "color"
         },
-        "emphasis1": {
+        "emphasis": {
           "value": "{global.color.esmeralda.80}",
           "type": "color"
         }
