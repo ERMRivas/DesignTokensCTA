@@ -4,7 +4,7 @@
       "primary": {
         "default": {
           "border": {
-            "value": "{semantic.color.accent.default}",
+            "value": "{semantic.color.accent.default1}",
             "type": "color"
           },
           "bg": {
